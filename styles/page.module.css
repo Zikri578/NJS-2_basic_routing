@@ -1,0 +1,28 @@
+.container_center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.container_dark {
+    background-color: rgba(0, 0, 0, 0.248);
+    color:wheat;
+}
+
+.container_light{
+    background-color:antiquewhite;
+    color:lightslategray
+}
+
+.light {
+    background-color: burlywood;
+    color: aliceblue;
+}
+
+.nolight {
+    background-color: yellowgreen;
+    color: yellow;
+}
